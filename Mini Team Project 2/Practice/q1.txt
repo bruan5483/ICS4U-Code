@@ -1,0 +1,22 @@
+Q1: How many bones are in each human foot? 
+a: 43, b: 67, c: 26, d: 106
+c
+true
+
+Q2: Alliumphobia is a fear of garlic (t/f)?
+t
+true
+
+Q3: What is the atomic number for lithium? 
+a: 3, b: 16, c: 15, d: 14
+a
+true
+
+Q4: 'A' is the most common letter used in the English language (t/f)?
+f
+true
+
+Q5: Thomas Edison discovered gravity (t/f)?
+f
+true
+
